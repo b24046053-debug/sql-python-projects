@@ -9,7 +9,7 @@ Pandas, SQLite, and SQL.
 1. Which products contains highest protein and relatively low fat, making them suitable for people who do weight training?
 2. Which product contains highest amount of sodium?
 
-## Tool Used
+## Tools Used
 Python
 Pandas
 SQLite
