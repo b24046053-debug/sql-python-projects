@@ -17,5 +17,5 @@ SQL
 Seaborn
 
 ## Summary
-1. ______ is a better chioce for people who need more protein with relatively less fat when eating at McDonald's.
-2. ______ contains highest sodium content and might contribute to water retention.
+1. Premium Grilled Chicken Classic Sandwich is a better chioce for people who need more protein with relatively less fat when eating at McDonald's.
+2. Chicken McNuggets (40 piece) contain highest sodium content and might contribute to water retention.
