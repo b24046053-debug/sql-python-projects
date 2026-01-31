@@ -18,5 +18,5 @@ Seaborn
 ## Summary
 1. Income and poverty are the key drivers of the hardship index across Chicago.
 2. While hardship increases with poverty, unemployment, and education disadvantage, substaintial dispersion remains, indicating that hardship is shaped by multiple interacting socioeconomic factors rather than any single variable alone.
-3.  
+3. Areas with lower education attinment (for people aged 25 without high school diploma) are more strongly associated with lower income than areas with higher unemployment. 
 
