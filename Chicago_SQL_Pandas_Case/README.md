@@ -8,4 +8,4 @@
 
 - Integrated Chicago school data, crime data, and socioeconomic datasets using SQL and Python (pandas+SQLite)
 - Performed multi-table analysis with JOIN, GROUP BY, and subqueries
-- Practiced data loading, aggregation, and exploratory querying in Jupyter notebook
+- Determined most crime-prone community areas and corresponding hardship index
